@@ -1,0 +1,29 @@
+@charset "UTF-8"
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: linear-gradient(to right, #B7A6F6, #AAECFC);
+}
+main{
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 6px 4px 12px #88A3E2;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    color: #C37EDB;
+    text-align: center;
+    text-shadow: 1px 1px 5px #db8cf5bd ;
+
+}
+h2{
+    color: #FC8DCA;
+    text-align: right;
+    text-shadow: 3px 2.5px 5px #ff91cbd8 ;
+}
+p{
+    text-align: justify;
+}

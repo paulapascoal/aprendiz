@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    background-color: #29bbffea;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#principal{
+    background-color: #0B4E6D;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    color: #004464;
+    font-weight: bold;
+
+}
+h2{
+    color: #0E668F;
+    text-align: right ;
+}
+.primeiro{
+    color: #014a8f;
+    
+
+}
+.segundo{
+    color:#270d85
+
+}
+.terceiro{
+    color: #1562d6;
+}
+
+.artista{
+    color: #150B6D;
+    text-align: center;
+    font-weight: bold;
