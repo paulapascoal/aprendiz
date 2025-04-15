@@ -134,6 +134,7 @@ main ul{
 main strong{
    color: var(--cor3);
 
+
 h3{
     color: white;
     background-image: linear-gradient(to right, var(--cor4), transparent);
