@@ -36,7 +36,7 @@ Estou apredendo a criar sites e agora vou gerenciar os meus repositórios.
 
 <a href="https://paulapascoal.github.io/aprendiz/ex016/index.html">Exercutar o Exercício 16.</a>
 
-<a href="https://paulapascoal.github.io/aprendiz/ex017/index.html">Exercutar o Exercício 17.</a>
+<a href="https://paulapascoal.github.io/aprendiz/ex017/404.html">Exercutar o Exercício 17.</a>
 
 <a href="https://paulapascoal.github.io/aprendiz/ex018/index.html">Exercutar o Exercício 18.</a>
 
